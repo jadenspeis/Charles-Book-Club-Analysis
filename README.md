@@ -2,7 +2,7 @@
 # Technical Skills: Python, SQL, Excel, Malloy
 
 ## Education
-- B.S., Business Administration with Concentrations in Management Information Systems as well as Entrepreneurship and Innovation
+- B.S., Business Administration with Concentrations in Management Information Systems as well as Entrepreneurship and Innovation | Gonzaga University (_May 2024_)
 
 ## Projects
 ### Data-Driven Market Segmentation for Charles Book Club

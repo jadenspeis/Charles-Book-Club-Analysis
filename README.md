@@ -1,2 +1,10 @@
-# Charles-Book-Club-Analysis
-Analysis of a the Charles Book Club database in order to find the factors to focus on when marketing its new book
+### Portfolio
+# Technical Skills: Python, SQL, Excel, Malloy
+
+## Education
+- B.S., Business Administration with Concentrations in Management Information Systems as well as Entrepreneurship and Innovation
+
+## Projects
+### Data-Driven Market Segmentation for Charles Book Club
+
+Developed an objective strategy for discovering the optimal market segments to focus on for the new book that the Charles Book Club is publishing. Using Python, the code includes models of logistic regression, decision trees, and neural networks. 
